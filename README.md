@@ -68,7 +68,7 @@ The Code file has been uploaded above in the repository - [Code](https://github.
 
 ## EXPERIMENTAL ANALYSIS AND RESULTS
 
-#### Logistic Regression:
+### Logistic Regression:
 Logistic Regression is a statistical method used for classification tasks, which involve categorizing data points into distinct classes or categories.
 - Below is a confusion matrix that has predicted and classified the crimes occurring is observed.
 
@@ -88,7 +88,7 @@ More number of wrong predictions in the form of false positive (FP) and false ne
 
 The target class of 0,1 and 2 are chosen to represent crime classification in the form of felony, misdemeanor and violation respectively. An accuracy and precision factor of 51% is observed through the implementation of logistic regression.
 
-#### Random Forest Classifier:
+### Random Forest Classifier:
 Random Forest is a versatile and powerful ensemble machine learning technique used for both classification and regression tasks.
 
 - Below is a confusion matrix that has predicted and classified the crimes occurring is observed.
