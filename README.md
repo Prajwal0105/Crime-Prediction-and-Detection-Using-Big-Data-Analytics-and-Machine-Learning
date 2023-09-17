@@ -104,7 +104,7 @@ The above confusion matrix has classified the offence level using the numbering 
 The right prediction as true positives and true negatives are presented diagonally; whereas the wrong prediction is represented as 0, 287 and 11.
 
 - The classification table of the same is illustrated below:
-- 
+  
 ![Table](https://github.com/Prajwal0105/master-thesis-project/blob/main/Random%20Forest-%20Classification%20table.png)
 
 The target class of 0,1 and 2 are chosen to represent crime classification in the form of felony, misdemeanor and violation respectively. An accuracy and precision factor of 99% is observed through the implementation of Random Forest Classifier.
@@ -127,16 +127,6 @@ The target class of 0,1 and 2 are chosen to represent crime classification in th
 - In conclusion, this research presents the integration of vast and diverse datasets, coupled with advanced predictive models, offers a powerful toolset for law enforcement agencies to proactively address criminal activities. 
 - As big data analytics and machine learning continue to evolve, it is essential to further explore and refine these methods to stay ahead in the fight against crime.
 - The same work can be extended when ML based algorithms can be combined with computer vision and CCTV can be used to detect hotspot areas of crime and further prevent the occurrence of the same.
-
-
-
-
-
-
-
-
-
-
 
 
 
